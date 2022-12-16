@@ -1,0 +1,30 @@
+14 october - choose if i would do a portfolio or a information site.
+17 october -  Choose information site
+21 october - Began with structure
+
+21-20 november nothing (was very sick)
+
+21 november - Began to fill in my structure with more codings and slowly it 
+began to be more content.
+
+30 november - Filled in more text and images.
+
+1 december - Added a cssfile, and pictures, wrote more text, coded more such as
+
+(li)
+(ul)
+(a)
+img:
+link etc.
+
+5 - december - created menus, cvpage, myself and contact page, added different
+colours in css.
+
+7 - december - Structured my coding more clearly.
+
+12, wrote buglist,readme file, finished my timereport, made my image on my main web 
+smaller was too big at first.
+
+
+
+
